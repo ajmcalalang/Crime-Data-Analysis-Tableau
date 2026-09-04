@@ -12,7 +12,4 @@ This workbook explores crime data to highlight the safest and most at-risk local
 - **Most Critical Time Crimes Were Consummated** – peak crime timing
 - **Top 10 Crime Events** – most significant recorded incidents
 
-## 🔗 Dataset
-[View dataset on Google Sheets](https://docs.google.com/spreadsheets/d/1aSy---WAllnzBM1Xweo77zrvbi3aRfE7/edit?usp=sharing&ouid=110996342597967079299&rtpof=true&sd=true)
-
 ![Crime Data Analysis](Crime-Data-Analysis.png)
